@@ -8,35 +8,7 @@ import java.util.Scanner;
 
 public class HotelManager {
 
-	/*
-	 * private static enum Hotel { PARK(90, 20, 5, 2), HYAAT(82, 12, 5, 3),
-	 * RADDISSON(30, 18, 3, 3), RAINTREE(58, 15, 3, 2), ACCORD(41.55, 11.8, 1,
-	 * 3), FORTUNE(43, 14.8, 1, 4);
-	 * 
-	 * private double costPerDay; private double discountPercentage; private int
-	 * discountDays; private int star;
-	 * 
-	 * private Hotel(double costPerDay, double discountPercentage, int star, int
-	 * discountDays) { this.costPerDay = costPerDay; this.discountDays =
-	 * discountDays; this.discountPercentage = discountPercentage; this.star =
-	 * star;
-	 * 
-	 * }
-	 * 
-	 * 
-	 * 
-	 * public Double getCostPerDay() { return costPerDay; }
-	 * 
-	 * public double getDiscountPercentage() { return discountPercentage; }
-	 * 
-	 * 
-	 * public int getDiscountDays() { return discountDays; }
-	 * 
-	 * public int getStar() { return star; }
-	 * 
-	 * 
-	 * }
-	 */
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
